@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aman Joharapurkar</h1>
-<h3 align="center">A passionate Machine Learning Engineer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanj10&label=Profile%20views&color=0e75b6&style=flat" alt="amanj10" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👯 I’m looking to collaborate on **AIML projects**
 
-- 💬 Ask me about **AIML, HTML/CSS, Python, DSA **
+- 💬 Ask me about **Web Development, AIML, DSA **
 
 - 📫 How to reach me **joharapurkaraman95@gmail.com**
 
